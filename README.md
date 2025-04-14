@@ -18,4 +18,4 @@ The model weights are available in this repository under the folder `model_weigh
 Here we describe how to use OMNI-P2x, either online or locally.
 
 # Citation
-- Mikolaj Martyka, Xin-Yu Tong, Joanna Jankowska, and Pavlo O. Dral. *OMNI-P2x: Universal neural network potential for excited-state simulations*. **2025**, *to be submitted*.
+- Mikolaj Martyka, Xin-Yu Tong, Joanna Jankowska, and Pavlo O. Dral. *OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations*. **2025**, *to be submitted*.
