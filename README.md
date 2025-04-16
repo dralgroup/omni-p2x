@@ -18,4 +18,4 @@ The model weights are available in this repository under the folder `model_weigh
 Example usage for predicting SPC spectra is provided in the form of a Jupyter notebook.
 
 # Citation
-- Mikolaj Martyka, Xin-Yu Tong, Joanna Jankowska, and Pavlo O. Dral. *OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations*. **2025**, *to be submitted*.
+- Mikolaj Martyka, Xin-Yu Tong, Joanna Jankowska, and Pavlo O. Dral. *OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations*. **2025**, *to be submitted*. *Preprint on ChemRxiv*: https://doi.org/10.26434/chemrxiv-2025-j207x (2025-04-16)
