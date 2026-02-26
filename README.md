@@ -3,13 +3,13 @@
 OMNI-P2x is a universal neural network potential for excited-state simulations. It approaches TD-DFT quality predictions, e.g., for UV/vis absorption spectra at a fraction of cost. OMNI-P2x is faster and more accurate than semiempirical QM methods such as TD-DFTB.
 
 # Usage
-You can use OMNI-P2x in [MLatom](https://github.com/dralgroup/mlatom) via [Aitomic](http://mlatom.com/aitomic) add-on, either online via a web browser or locally on your computer. Below are the details.
+You can use OMNI-P2x in [MLatom](https://github.com/dralgroup/mlatom): currently via [Aitomic](http://mlatom.com/aitomic) add-on, either online via a web browser or locally on your computer. Below are the details.
 
 ## Online via a web browser
-It is convenient to do calculations with OMNI-P2x via a web browser, where two options are available:
+It is convenient to do calculations with OMNI-P2x via a web browser on online platforms with convenient GUIs and AI agents. Currently, two options are available:
 
-- [Aitomistic Hub](https://aitomistic.xyz) - provides a convenient web interface for performing simulations, with limited free resources mainly for demo purposes (recommended).
-- [XACS cloud](https://XACScloud.com) - a less convenient but a time-proven solution with generous free computational resources for academic users.
+- [Aitomistic Hub](https://aitomistic.xyz) - provides a convenient web interface for performing simulations, with limited free resources mainly for demo purposes.
+- [Aitomistic Lab@XMU](https://atom.xmu.edu.cn) - similar to the Hub above, but is available only for the academic users registered with their academic emails, for whom it provides more resources.
 
 ## Locally
 You can request a ready-to-use implementation in the Aitomic package (which builds upon MLatom by providing add-ons for unpublished features like this one), it is free for academic users subject to a license agreement. The source code is planned to be openly released in MLatom under the MIT license upon the acceptance of the manuscript in the journal of our choice.
@@ -20,4 +20,4 @@ Alternatively, the model weights are available in this repository under the fold
 Example usage for predicting SPC spectra is provided in the form of a Jupyter notebook.
 
 # Citation
-- Mikolaj Martyka, Xin-Yu Tong, Joanna Jankowska, and Pavlo O. Dral. *OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations*. **2025**, *to be submitted*. *Preprint on ChemRxiv*: https://doi.org/10.26434/chemrxiv-2025-j207x (2025-04-16)
+- Mikolaj Martyka, Xin-Yu Tong, Joanna Jankowska, and Pavlo O. Dral. *OMNI-P2x: A Universal Neural Network Potential for Excited-State Simulations*. **2025**. *Preprint on ChemRxiv*: https://doi.org/10.26434/chemrxiv-2025-j207x (2025-04-16)
